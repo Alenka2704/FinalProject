@@ -6,10 +6,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="#C5CAE9"
+    android:padding="8dp"
     tools:context="com.example.android.finalproject.MainActivity">
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Tap on picture to see how to make it"/>
 </LinearLayout>
